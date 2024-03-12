@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "8e82752af24f9558",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5a458beca7fbe18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f36c527b922ceb1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8413823e70e61de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "324ff894189ce9b6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f128cae9fabb2f7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ca2e7047a6fa724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "949f55273e854f8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd44bdd2c3e5312d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "feebf7ac64c64301",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf4a7aefa7d3a345",
+    "type": "split",
+    "children": [
+      {
+        "id": "1452cd8926c74a45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "124972a8531cea2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5be9bfc1a397df1d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7db3f0b8c6e8f450",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d57d1cd5002837c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "324ff894189ce9b6",
+  "lastOpenFiles": [
+    "README.md",
+    "Architecture Vision/Architecture Vision.md",
+    "Architecture Vision",
+    "Preliminary Phase/Business principles, goals, and drivers.md",
+    "Preliminary Phase/Constraints.md",
+    "Preliminary Phase/Governance structure.md",
+    "Preliminary Phase/Perform Enterprise architecture Maturity assessment.md",
+    "diagrams/Pasted image 20240312125249.png",
+    "Preliminary Phase/Preliminary Phase.md",
+    "diagrams/Pasted image 20240312124331.png",
+    "Farm Corp.md",
+    "CEO Persona - prompt.md",
+    "Strategy.md",
+    "Farmer.md",
+    "Preliminary Phase/Preliminary phase - canvas.canvas",
+    "Preliminary Phase/Scope the enterprise organization's impacted.md",
+    "diagrams/Pasted image 20240312104030.png",
+    "diagrams/Pasted image 20240312100103.png",
+    "diagrams/Pasted image 20240312100051.png",
+    "diagrams/Pasted image 20240312092120.png",
+    "diagrams/Pasted image 20240311190828.png",
+    "diagrams/Pasted image 20240311185428.png",
+    "diagrams/Pasted image 20240311185411.png",
+    "diagrams/Pasted image 20240311185322.png",
+    "diagrams"
+  ]
+}
