@@ -2,7 +2,7 @@
 
 Farm Corporation Architecture implementation based on the TOGAF ADM methodology.
 
-![[Pasted image 20240312124331.png]]
+![tofaf](https://github.com/smacken/farmcorp-architecture/diagrams/Pasted image 20240312124331.png?raw=true)
 
 ## Getting started
 
