@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture Vision/Stakeholder communication plan.md",
+                "file": "IT Capability Assessment.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture Vision/Stakeholder communication plan.md",
+                "file": "IT Capability Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture Vision/Stakeholder communication plan.md",
+                "file": "IT Capability Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture Vision/Stakeholder communication plan.md"
+                "file": "IT Capability Assessment.md"
               }
             }
           }
@@ -191,10 +191,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "949f55273e854f8e",
+  "active": "458f2bc619682975",
   "lastOpenFiles": [
+    "diagrams/Pasted image 20240314160824.png",
     "Architecture Vision/Architecture Vision.md",
+    "IT Capability Assessment.md",
+    "Architecture Vision/Business Capability Program Maturity.md",
+    "diagrams/Pasted image 20240314154605.png",
+    "diagrams/Pasted image 20240314154436.png",
+    "Architecture Vision/Business Capability Map.md",
+    "diagrams/Business Capability Map2173979653186537382.png",
+    "README.md",
+    "Preliminary Phase/Perform Enterprise architecture Maturity assessment.md",
+    "Preliminary Phase/Business principles, goals, and drivers.md",
     "Architecture Vision/Stakeholder communication plan.md",
+    "Preliminary Phase/Constraints.md",
     "Architecture Vision/Stakeholders & Possible Concerns.md",
     "Identify High level Architecture Objectives.md",
     "diagrams/Pasted image 20240313163020.png",
@@ -202,14 +213,10 @@
     "Forward looking statement.md",
     "CEO Persona - prompt.md",
     "Annual Report.md",
-    "Preliminary Phase/Business principles, goals, and drivers.md",
-    "README.md",
     "Farm Corp Summary.md",
     "Preliminary Phase/Architecture principles.md",
     "Company Strategies.md",
     "Preliminary Phase/Preliminary Phase.md",
-    "Preliminary Phase/Constraints.md",
-    "Preliminary Phase/Perform Enterprise architecture Maturity assessment.md",
     "diagrams/Pasted image 20240312165427.png",
     "Preliminary Phase/Scope the enterprise organization's impacted.md",
     "diagrams/Pasted image 20240312163700.png",
@@ -223,9 +230,6 @@
     "Preliminary Phase/Preliminary phase - canvas.canvas",
     "diagrams/Pasted image 20240312104030.png",
     "diagrams/Pasted image 20240312100103.png",
-    "diagrams/Pasted image 20240312100051.png",
-    "diagrams/Pasted image 20240312092120.png",
-    "diagrams/Pasted image 20240311190828.png",
     "diagrams"
   ]
 }
