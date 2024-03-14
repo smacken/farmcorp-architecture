@@ -1,9 +1,9 @@
-![FarmCorpLogo](https://github.com/smacken/farmcorp-architecture/assets/logo.png)
+![FarmCorpLogo](assets/logo.png)
 # Farm Corp Enterprise Architecture
 ___
 Farm Corporation Architecture implementation based on the TOGAF ADM methodology.
 
-![togaf]("https://github.com/smacken/farmcorp-architecture/assets/togaf.png")
+![togaf](assets/togaf.png)
 ## Getting started
 
 The project is based off an Obsidian vault in order to manage and structure the architecture repository.
@@ -18,5 +18,30 @@ The project is based off an Obsidian vault in order to manage and structure the 
 
 ## Methodology
 
-1. [[Preliminary Phase]]
-2. [[Architecture Vision]]
+The TOGAF Architecture Development Method (ADM) offers a structured approach for organizations to develop, manage, and evolve their enterprise architecture. It consists of the following phases:
+
+1. **[[Preliminary Phase]]**: Establishes the organizational context for enterprise architecture and defines the tailored architecture framework and principles.
+    
+2. **Phase A - [[Architecture Vision]]**: Involves the development of a high-level vision of the architecture that supports the business strategy.
+    
+3. **Phase B - Business Architecture**: Defines the business strategy, governance, organization, and key business processes of the organization.
+    
+4. **Phase C - Information Systems Architectures**:
+    
+    - **Data Architecture**: Details the structure of an organization's logical and physical data assets and data management resources.
+    - **Application Architecture**: Provides a blueprint for the individual application systems to be deployed, their interactions, and their relationships to the core business processes.
+5. **Phase D - Technology Architecture**: Describes the logical software and hardware capabilities required to support the deployment of business, data, and application services.
+    
+6. **Phase E - Opportunities and Solutions**: Identifies delivery vehicles for the architecture defined in the previous phases.
+    
+7. **Phase F - Migration Planning**: Addresses planning for the implementation of the architecture projects identified in Phase E.
+    
+8. **Phase G - Implementation Governance**: Provides an architectural oversight of the implementation.
+    
+9. **Phase H - Architecture Change Management**: Establishes procedures for managing changes to the new architecture.
+    
+10. **Requirements Management**: A central process that ensures that the Architecture Development Method responds to the dynamic nature of business drivers and changes in requirements.
+
+### Business Background and Context
+
+[[Farm Corp Summary]] | [[Company Strategies]] | [[Forward looking statement]] | [[Annual Report]]
