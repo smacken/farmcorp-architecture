@@ -5,3 +5,4 @@
 5. [[Business Capability Map]]
 6. [[Business Capability Program Maturity]]
 7. [[IT Capability Assessment]]
+8. [[Business transformation readiness assessment]]

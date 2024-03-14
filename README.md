@@ -1,8 +1,9 @@
-# Farm Corporation Enterprise Architecture
-
+![FarmCorpLogo](https://github.com/smacken/farmcorp-architecture/assets/logo.png)
+# Farm Corp Enterprise Architecture
+___
 Farm Corporation Architecture implementation based on the TOGAF ADM methodology.
 
-![togaf]("https://github.com/smacken/farmcorp-architecture/diagrams/Pasted%20image%2020240312124331.png?raw=true")
+![togaf]("https://github.com/smacken/farmcorp-architecture/assets/togaf.png")
 ## Getting started
 
 The project is based off an Obsidian vault in order to manage and structure the architecture repository.

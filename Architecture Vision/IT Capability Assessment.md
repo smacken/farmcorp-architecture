@@ -1,4 +1,8 @@
+[[Architecture Vision]]
+
 To support the architecture development effort, Farm Corporation needs to identify and enhance specific IT capabilities. Below are the key IT capabilities required, along with their current and target capability levels:
+
+![[Pasted image 20240314190247.png]]
 
 1. **IT Governance Capability**:
     

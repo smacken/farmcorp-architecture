@@ -1,3 +1,5 @@
+[[Architecture Vision]]
+
 Outline of the communication plan for the enterprise architecture program, detailing the role, group, information needs, and details:
 
 | Role/Group                    | Information Needs                               | Details                                                                                                                       |

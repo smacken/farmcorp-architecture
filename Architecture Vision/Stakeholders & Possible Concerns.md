@@ -1,4 +1,4 @@
-[[Architecture Vision]]
+[[Architecture Vision]] | [[Stakeholder communication plan]]
 
 Key stakeholders of the architecture activities for Farm Corporation's expected enterprise architecture program, detailing their roles, responsibilities, key concerns, classification, and deliverables:
 

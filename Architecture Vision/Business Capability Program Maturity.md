@@ -1,3 +1,5 @@
+[[Architecture Vision]] | [[IT Capability Assessment]] | [[Business transformation readiness assessment]]
+
 ![[Pasted image 20240314154436.png]]
 
 To assess Farm Corporation's readiness to develop and consume an architecture, we will evaluate several key business capabilities. The current score reflects the existing maturity level of each capability, while the target score indicates the desired level of maturity needed to successfully complete the enterprise architecture program using TOGAF.
@@ -96,16 +98,20 @@ To address the enterprise architecture program effectively, it's essential to re
 1. **Operational Disruption**:
     
     - Commencing the architecture project will require changes to current systems and processes, leading to potential short-term operational disruptions as new technologies and practices are adopted.
-2. **Resource Allocation**:
+    
+1. **Resource Allocation**:
     
     - Significant resources, both financial and human, will be allocated to training, system upgrades, and the implementation of new technologies, potentially impacting other business areas.
-3. **Cultural Shift**:
+    
+1. **Cultural Shift**:
     
     - The introduction of new tools and processes will necessitate a cultural shift within the organization, emphasizing agility, innovation, and data-centricity.
-4. **Workforce Adaptation**:
+    
+1. **Workforce Adaptation**:
     
     - Employees will need to adapt to new ways of working, which may include upskilling, reskilling, and embracing new roles aligned with the digital transformation efforts.
-5. **Risk Management**:
+    
+1. **Risk Management**:
     
     - With the increased reliance on technology and data, the organization will need to enhance its risk management capabilities to address cybersecurity threats, data privacy concerns, and compliance requirements.
 
