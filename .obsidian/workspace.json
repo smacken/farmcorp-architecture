@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Architecture Vision/Architecture Vision.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "requirement",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Architecture Vision/Architecture Vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Architecture Vision/Architecture Vision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Architecture Vision/Architecture Vision.md"
               }
             }
           }
@@ -193,6 +193,28 @@
   },
   "active": "458f2bc619682975",
   "lastOpenFiles": [
+    "diagrams/Solution Concept.jpg",
+    "Architecture Vision/Acceptance Criteria.md",
+    "Architecture Vision/Architecture Vision.md",
+    "Risks.md",
+    "Architecture Vision/Business Capability Program Maturity.md",
+    "Architecture Vision/IT Capability Assessment.md",
+    "Architecture Vision/Identify High level Architecture Objectives.md",
+    "Architecture Vision/Problem definition & Identify change drivers.md",
+    "Preliminary Phase/Business principles, goals, and drivers.md",
+    "Preliminary Phase/Constraints.md",
+    "Preliminary Phase/Architecture principles.md",
+    "Preliminary Phase/Governance structure.md",
+    "Preliminary Phase/Perform Enterprise architecture Maturity assessment.md",
+    "Preliminary Phase/Preliminary Phase.md",
+    "Preliminary Phase/Preliminary phase - canvas.canvas",
+    "Preliminary Phase/Scope the enterprise organization's impacted.md",
+    "Architecture Vision/Request for work.md",
+    "diagrams/Pasted image 20240315130257.png",
+    "README.md",
+    "Business Architecture/Business Architecture - canvas.canvas",
+    "Business Architecture/Business Architecture.md",
+    "Business Architecture",
     "assets/togaf.png",
     "diagrams/Pasted image 20240312125249.png",
     "diagrams/Pasted image 20240312163700.png",
@@ -202,37 +224,19 @@
     "diagrams/Pasted image 20240314154605.png",
     "diagrams/Pasted image 20240314160824.png",
     "diagrams/Pasted image 20240314190247.png",
-    "diagrams/Pasted image 20240229162442.png",
-    "diagrams/Pasted image 20240229162453.png",
-    "README.md",
-    "Architecture Vision/Architecture Vision.md",
     "assets",
-    "Architecture Vision/Identify High level Architecture Objectives.md",
-    "Architecture Vision/IT Capability Assessment.md",
     "Architecture Vision/Architecture vision - canvas.canvas",
     "Architecture Vision/Business Capability Map.md",
-    "Architecture Vision/Business Capability Program Maturity.md",
     "Architecture Vision/Business transformation readiness assessment.md",
     "Architecture Vision/Stakeholders & Possible Concerns.md",
     "Architecture Vision/Stakeholder communication plan.md",
-    "Architecture Vision/Problem definition & Identify change drivers.md",
-    "Preliminary Phase/Perform Enterprise architecture Maturity assessment.md",
-    "Preliminary Phase/Business principles, goals, and drivers.md",
-    "Preliminary Phase/Constraints.md",
     "Forward looking statement.md",
     "CEO Persona - prompt.md",
     "Annual Report.md",
     "Farm Corp Summary.md",
-    "Preliminary Phase/Architecture principles.md",
-    "Company Strategies.md",
-    "Preliminary Phase/Preliminary Phase.md",
-    "Preliminary Phase/Scope the enterprise organization's impacted.md",
     "output-summary-ocr.pdf",
     "output-summary.pdf",
     "Architecture Vision",
-    "Preliminary Phase/Governance structure.md",
-    "Farmer.md",
-    "Preliminary Phase/Preliminary phase - canvas.canvas",
     "diagrams"
   ]
 }

@@ -6,3 +6,9 @@
 6. [[Business Capability Program Maturity]]
 7. [[IT Capability Assessment]]
 8. [[Business transformation readiness assessment]]
+9. [[Risks]]
+10. [[Acceptance Criteria]]
+
+#### Solution Concept
+
+![[diagrams/Solution Concept.jpg]]

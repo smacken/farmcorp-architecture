@@ -8,9 +8,9 @@ Farm Corporation Architecture implementation based on the TOGAF ADM methodology.
 
 The project is based off an Obsidian vault in order to manage and structure the architecture repository.
 1. Download and install Obsidian https://obsidian.md/download
-	2. 1. To the right of **Open folder as vault**, click **Open**.
-	3. In the file browser, select the folder you want to use as your vault.
-	4. Click **Open**.
+	1. To the right of **Open folder as vault**, click **Open**.
+	2. In the file browser, select the folder you want to use as your vault.
+	3. Click **Open**.
 2. _Optional:_ Download Visual Paradigm https://www.visual-paradigm.com/
 	1. Select **View > Project Browser** from the toolbar
 	2. Click on the **Open Project Browser** on the right-hand side of the navigation bar of any diagram
@@ -24,10 +24,9 @@ The TOGAF Architecture Development Method (ADM) offers a structured approach for
     
 2. **Phase A - [[Architecture Vision]]**: Involves the development of a high-level vision of the architecture that supports the business strategy.
     
-3. **Phase B - Business Architecture**: Defines the business strategy, governance, organization, and key business processes of the organization.
+3. **Phase B - [[Business Architecture]]**: Defines the business strategy, governance, organization, and key business processes of the organization.
     
 4. **Phase C - Information Systems Architectures**:
-    
     - **Data Architecture**: Details the structure of an organization's logical and physical data assets and data management resources.
     - **Application Architecture**: Provides a blueprint for the individual application systems to be deployed, their interactions, and their relationships to the core business processes.
 5. **Phase D - Technology Architecture**: Describes the logical software and hardware capabilities required to support the deployment of business, data, and application services.
