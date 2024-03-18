@@ -44,3 +44,18 @@ The TOGAF Architecture Development Method (ADM) offers a structured approach for
 ### Business Background and Context
 
 [[Farm Corp Summary]] | [[Company Strategies]] | [[Forward looking statement]] | [[Annual Report]]
+
+### Key objectives
+
+[[Identify High level Architecture Objectives]]
+
+**Enhanced Supply Chain Visibility** - To achieve complete transparency across the entire supply chain, enabling real-time tracking and monitoring of all processes, from sourcing to delivery.
+
+**Predictive Supply Chain Analytics** - To utilize predictive analytics for demand forecasting, risk assessment, and proactive supply chain planning to minimize the impact of disruptions.
+
+**Supply Chain Flexibility and Responsiveness** - To enable a flexible and responsive supply chain capable of adapting to changes in market demand, supplier issues, or logistical challenges quickly.
+
+**Supplier Collaboration and Integration** - To foster closer collaboration with suppliers through improved information sharing and joint planning capabilities.
+
+**Reduction of Operational Costs** - To reduce operational costs associated with inventory management, logistics, and procurement processes.
+

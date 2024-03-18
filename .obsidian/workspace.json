@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f36c527b922ceb1",
+            "id": "3c7b93137b1fadb6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,55 +16,18 @@
             }
           },
           {
-            "id": "f8413823e70e61de",
+            "id": "b88192cae8427523",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEO Persona - prompt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "458f2bc619682975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Vision/Architecture Vision.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "324ff894189ce9b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Farm Corp Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eced1470abc7b950",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Farm Corp Summary.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture Vision/Architecture Vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture Vision/Architecture Vision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Architecture Vision/Architecture Vision.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -191,16 +150,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "458f2bc619682975",
+  "active": "3c7b93137b1fadb6",
   "lastOpenFiles": [
-    "diagrams/Solution Concept.jpg",
-    "Architecture Vision/Acceptance Criteria.md",
-    "Architecture Vision/Architecture Vision.md",
-    "Risks.md",
-    "Architecture Vision/Business Capability Program Maturity.md",
-    "Architecture Vision/IT Capability Assessment.md",
+    "Business Architecture/Business Architecture.md",
+    "Business Architecture/Business architecture model.md",
     "Architecture Vision/Identify High level Architecture Objectives.md",
+    "README.md",
     "Architecture Vision/Problem definition & Identify change drivers.md",
+    "diagrams/Pasted image 20240318153244.png",
+    "diagrams/Pasted image 20240318153230.png",
+    "Architecture Vision/Business Capability Map.md",
+    "Architecture Vision/IT Capability Assessment.md",
+    "Architecture Vision/Acceptance Criteria.md",
+    "Architecture Vision/Request for work.md",
+    "Architecture Vision/Architecture Vision.md",
+    "Company Strategies.md",
+    "diagrams/Pasted image 20240318124922.png",
+    "Organizational structure.md",
+    "Stakeholders and responsibilities.md",
+    "Risks.md",
+    "Architecture Vision/Stakeholders & Possible Concerns.md",
+    "diagrams/Solution Concept.jpg",
+    "Architecture Vision/Business Capability Program Maturity.md",
     "Preliminary Phase/Business principles, goals, and drivers.md",
     "Preliminary Phase/Constraints.md",
     "Preliminary Phase/Architecture principles.md",
@@ -209,31 +180,18 @@
     "Preliminary Phase/Preliminary Phase.md",
     "Preliminary Phase/Preliminary phase - canvas.canvas",
     "Preliminary Phase/Scope the enterprise organization's impacted.md",
-    "Architecture Vision/Request for work.md",
     "diagrams/Pasted image 20240315130257.png",
-    "README.md",
     "Business Architecture/Business Architecture - canvas.canvas",
-    "Business Architecture/Business Architecture.md",
     "Business Architecture",
     "assets/togaf.png",
     "diagrams/Pasted image 20240312125249.png",
     "diagrams/Pasted image 20240312163700.png",
     "diagrams/Pasted image 20240312165427.png",
     "diagrams/Pasted image 20240313163020.png",
-    "diagrams/Pasted image 20240314154436.png",
-    "diagrams/Pasted image 20240314154605.png",
-    "diagrams/Pasted image 20240314160824.png",
-    "diagrams/Pasted image 20240314190247.png",
     "assets",
     "Architecture Vision/Architecture vision - canvas.canvas",
-    "Architecture Vision/Business Capability Map.md",
     "Architecture Vision/Business transformation readiness assessment.md",
-    "Architecture Vision/Stakeholders & Possible Concerns.md",
     "Architecture Vision/Stakeholder communication plan.md",
-    "Forward looking statement.md",
-    "CEO Persona - prompt.md",
-    "Annual Report.md",
-    "Farm Corp Summary.md",
     "output-summary-ocr.pdf",
     "output-summary.pdf",
     "Architecture Vision",
