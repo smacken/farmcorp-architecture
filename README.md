@@ -15,6 +15,8 @@ The project is based off an Obsidian vault in order to manage and structure the 
 	1. Select **View > Project Browser** from the toolbar
 	2. Click on the **Open Project Browser** on the right-hand side of the navigation bar of any diagram
 	3. Select the Farm Corp project
+3. Business context
+	1. View business background and context incl annual reports, forward looking statements from the board of directors, company strategies etc.
 
 ## Methodology
 

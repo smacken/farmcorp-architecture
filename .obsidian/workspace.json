@@ -11,8 +11,12 @@
             "id": "3c7b93137b1fadb6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Business Architecture/Business Architecture.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Business Architecture/Business Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Business Architecture/Business Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Business Architecture/Business Architecture.md"
+              }
             }
           }
         ]
@@ -150,25 +158,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c7b93137b1fadb6",
+  "active": "949f55273e854f8e",
   "lastOpenFiles": [
-    "Business Architecture/Business Architecture.md",
-    "Business Architecture/Business architecture model.md",
+    "diagrams/Target Business Architecture Model.jpg",
+    "Business Architecture/Value Stream.md",
+    "diagrams/Pasted image 20240319180220.png",
+    "diagrams/Pasted image 20240319163424.png",
     "Architecture Vision/Identify High level Architecture Objectives.md",
     "README.md",
+    "Architecture Vision/Business Capability Map.md",
+    "Business Architecture/Business Architecture.md",
+    "Architecture Vision/Architecture Vision.md",
+    "diagrams/Baseline Business Architecture Model.jpg",
+    "diagrams/Pasted image 20240319100919.png",
+    "Business Context/Organizational structure.md",
+    "Business Context",
+    "Business Architecture/Stakeholders and responsibilities.md",
+    "Architecture Vision/Risks.md",
+    "Business Architecture/Business architecture model.md",
     "Architecture Vision/Problem definition & Identify change drivers.md",
     "diagrams/Pasted image 20240318153244.png",
     "diagrams/Pasted image 20240318153230.png",
-    "Architecture Vision/Business Capability Map.md",
     "Architecture Vision/IT Capability Assessment.md",
     "Architecture Vision/Acceptance Criteria.md",
     "Architecture Vision/Request for work.md",
-    "Architecture Vision/Architecture Vision.md",
-    "Company Strategies.md",
+    "Business Context/Company Strategies.md",
     "diagrams/Pasted image 20240318124922.png",
-    "Organizational structure.md",
-    "Stakeholders and responsibilities.md",
-    "Risks.md",
     "Architecture Vision/Stakeholders & Possible Concerns.md",
     "diagrams/Solution Concept.jpg",
     "Architecture Vision/Business Capability Program Maturity.md",
@@ -184,14 +199,9 @@
     "Business Architecture/Business Architecture - canvas.canvas",
     "Business Architecture",
     "assets/togaf.png",
-    "diagrams/Pasted image 20240312125249.png",
-    "diagrams/Pasted image 20240312163700.png",
-    "diagrams/Pasted image 20240312165427.png",
-    "diagrams/Pasted image 20240313163020.png",
     "assets",
     "Architecture Vision/Architecture vision - canvas.canvas",
     "Architecture Vision/Business transformation readiness assessment.md",
-    "Architecture Vision/Stakeholder communication plan.md",
     "output-summary-ocr.pdf",
     "output-summary.pdf",
     "Architecture Vision",
