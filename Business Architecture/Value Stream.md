@@ -32,7 +32,7 @@
 3. **Warehouse Management**:
     
     - Optimizing warehouse operations through efficient layout planning, automated storage and retrieval systems, and effective inventory control techniques.
-4. **Real-time Inventory Tracking**:
+4. **Real-time Inventory Tracking**: [[Target Architecture#Real-time Inventory Tracking]]
     
     - Utilizing technologies such as RFID, barcoding, or IoT sensors to track inventory levels in real-time throughout the supply chain.
 5. **Dynamic Routing and Re-routing**:

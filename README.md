@@ -18,6 +18,8 @@ The project is based off an Obsidian vault in order to manage and structure the 
 3. Business context
 	1. View business background and context incl annual reports, forward looking statements from the board of directors, company strategies etc.
 
+> **Note:** Obsidian is required to view diagrams within markdown documents. Image links won't resolve using Github .md viewer.
+
 ## Methodology
 
 The TOGAF Architecture Development Method (ADM) offers a structured approach for organizations to develop, manage, and evolve their enterprise architecture. It consists of the following phases:
