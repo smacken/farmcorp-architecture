@@ -1,3 +1,4 @@
+[[Architecture Vision]]
 ## Change request process
 
 ![[Pasted image 20240315130257.png]]

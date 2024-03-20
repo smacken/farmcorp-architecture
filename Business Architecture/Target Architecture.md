@@ -1,7 +1,7 @@
 [[Business Architecture]] | [[Business Scenarios]]
 ## Real-time Inventory Tracking
 
-![[Pasted image 20240320123152.png]]
+![[Pasted image 20240320141327.png]]
 The business function of Real-time Inventory Tracking typically involves several interrelated business processes to ensure accurate and up-to-the-minute data on inventory levels. Here are the key processes involved:
 
 1. **Inventory Data Collection**: Utilizing technologies like RFID, barcodes, or IoT sensors to capture data on stock levels, movements, and locations within warehouses and storage facilities.
