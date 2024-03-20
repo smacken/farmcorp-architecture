@@ -49,7 +49,7 @@ The TOGAF Architecture Development Method (ADM) offers a structured approach for
 
 [[Farm Corp Summary]] | [[Company Strategies]] | [[Forward looking statement]] | [[Annual Report]]
 
-![[diagrams/graph.png]]
+![knowledge-graph](diagrams/graph.png)
 ### Key objectives
 
 [[Identify High level Architecture Objectives]]
