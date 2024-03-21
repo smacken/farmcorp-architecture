@@ -2,7 +2,7 @@
 2. [[Business architecture model]]
 3. [[Value Stream]] | [[Business Capability Map]]
 4. [[Business applications]]
-5. [[Business Scenarios]]
+5. [[Business Scenarios]] | [[Causal loops - Supply chain]]
 6. [[Target Architecture]]
 
 ### Business baseline architecture

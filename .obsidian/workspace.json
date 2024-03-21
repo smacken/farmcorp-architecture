@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c9cbaaf0177104d",
+            "id": "5df80f95e54c4dd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Business Architecture/Business Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40b8b7264c019780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business Architecture/Value Stream.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45a175260a05aacb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business Architecture/Target Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Business Architecture/Business Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Business Architecture/Business Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Business Architecture/Business Architecture.md"
               }
             }
           }
@@ -147,12 +171,32 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c9cbaaf0177104d",
+  "active": "5df80f95e54c4dd4",
   "lastOpenFiles": [
-    "diagrams/graph.png",
-    "diagrams/Pasted image 20240229162442.png",
+    "Business Architecture/Causal loops - Supply chain.md",
+    "diagrams/Pasted image 20240322105702.png",
+    "diagrams/Pasted image 20240322105228.png",
+    "utils/Causal loops.md",
+    "Business Architecture/Value Stream.md",
+    "Business Architecture/Business Architecture.md",
+    "Business Architecture/Target Architecture.md",
+    "Business Architecture/Business Scenarios.md",
+    "Architecture Vision/Problem definition & Identify change drivers.md",
+    "Architecture Vision/Request for work.md",
+    "Business Architecture/Business architecture model.md",
+    "Business Architecture/Demand forecasting and replenishment.md",
+    "Business Architecture/Stakeholders and responsibilities.md",
+    "Business Architecture/Identify and Establish Architecture Principles.md",
+    "utils",
     "README.md",
-    "Identify and Establish Architecture Principles.md",
+    "diagrams/Pasted image 20240319180220.png",
+    "diagrams/Pasted image 20240320092251.png",
+    "diagrams/Pasted image 20240320092333.png",
+    "diagrams/Pasted image 20240320093115.png",
+    "diagrams/Pasted image 20240320093729.png",
+    "diagrams/Pasted image 20240320123152.png",
+    "diagrams/Pasted image 20240320141327.png",
+    "diagrams/Pasted image 20240321102052.png",
     "Architecture Vision/Acceptance Criteria.md",
     "Architecture Vision/Architecture Vision.md",
     "Architecture Vision/Business Capability Map.md",
@@ -161,31 +205,11 @@
     "Architecture Vision/Business transformation readiness assessment.md",
     "Architecture Vision/Identify High level Architecture Objectives.md",
     "Architecture Vision/IT Capability Assessment.md",
-    "Architecture Vision/Problem definition & Identify change drivers.md",
-    "Architecture Vision/Request for work.md",
     "Architecture Vision/Stakeholder communication plan.md",
     "Architecture Vision/Risks.md",
     "Business Context/Locations.md",
     "Business Context/Organizational structure.md",
     "Business Context/Forward looking statement.md",
-    "Business Context/Farm Corp Summary.md",
-    "Business Context/Company Strategies.md",
-    "Business Context/CEO Persona - prompt.md",
-    "Business Context/Annual Report.md",
-    "Business Architecture/Target Architecture.md",
-    "Business Architecture/Value Stream.md",
-    "Business Architecture/Business Architecture.md",
-    "diagrams/Pasted image 20240321102112.png",
-    "diagrams/Pasted image 20240321102052.png",
-    "Business Architecture/Business architecture model.md",
-    "Business Architecture/Business applications.md",
-    "diagrams/Pasted image 20240320141327.png",
-    "diagrams/Pasted image 20240320123152.png",
-    "diagrams/Pasted image 20240320093729.png",
-    "diagrams/Pasted image 20240320093115.png",
-    "diagrams/Pasted image 20240320092333.png",
-    "diagrams/Pasted image 20240320092314.png",
-    "diagrams/Pasted image 20240320092251.png",
     "Business Context",
     "Preliminary Phase/Preliminary phase - canvas.canvas",
     "Business Architecture/Business Architecture - canvas.canvas",
