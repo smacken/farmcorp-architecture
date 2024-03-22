@@ -4,6 +4,7 @@
 4. [[Business applications]]
 5. [[Business Scenarios]] | [[Causal loops - Supply chain]]
 6. [[Target Architecture]]
+7. [[Business requirements]] | [[Business requirements#Implementation Guidelines]]
 
 ### Business baseline architecture
 
