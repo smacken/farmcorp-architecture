@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business Architecture/Business Architecture.md",
+                "file": "Business Architecture/Value Stream.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business requirements.md",
+                "file": "Business Architecture/Business requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Architecture/Business Architecture.md",
+                "file": "Business Architecture/Value Stream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Architecture/Business Architecture.md",
+                "file": "Business Architecture/Value Stream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Architecture/Business Architecture.md"
+                "file": "Business Architecture/Value Stream.md"
               }
             }
           }
@@ -185,24 +185,29 @@
   },
   "active": "5df80f95e54c4dd4",
   "lastOpenFiles": [
-    "Business requirements.md",
+    "Business Architecture/Target Architecture.md",
+    "Business Architecture/Business requirements.md",
+    "Business Architecture/Business architecture model.md",
     "Business Architecture/Business Architecture.md",
-    "Architecture Vision/Identify High level Architecture Objectives.md",
+    "Business Architecture/Business applications.md",
+    "Business Architecture/Causal loops - Supply chain.md",
+    "Architecture Vision/Risks.md",
     "Architecture Vision/Problem definition & Identify change drivers.md",
+    "Architecture Vision/Architecture Vision.md",
+    "Architecture Vision/Acceptance Criteria.md",
+    "README.md",
+    "Architecture Vision/Business Capability Map.md",
+    "Business Architecture/Business Scenarios.md",
+    "Architecture Vision/Identify High level Architecture Objectives.md",
     "Preliminary Phase/Architecture principles.md",
     "Preliminary Phase/Business principles, goals, and drivers.md",
     "Preliminary Phase/Scope the enterprise organization's impacted.md",
     "Preliminary Phase/Constraints.md",
-    "Business Architecture/Target Architecture.md",
-    "README.md",
-    "Business Architecture/Causal loops - Supply chain.md",
     "diagrams/Pasted image 20240322105702.png",
     "diagrams/Pasted image 20240322105228.png",
     "utils/Causal loops.md",
     "Business Architecture/Value Stream.md",
-    "Business Architecture/Business Scenarios.md",
     "Architecture Vision/Request for work.md",
-    "Business Architecture/Business architecture model.md",
     "Business Architecture/Demand forecasting and replenishment.md",
     "Business Architecture/Stakeholders and responsibilities.md",
     "Business Architecture/Identify and Establish Architecture Principles.md",
@@ -215,14 +220,9 @@
     "diagrams/Pasted image 20240320123152.png",
     "diagrams/Pasted image 20240320141327.png",
     "diagrams/Pasted image 20240321102052.png",
-    "Architecture Vision/Acceptance Criteria.md",
-    "Architecture Vision/Architecture Vision.md",
-    "Architecture Vision/Business Capability Map.md",
     "Architecture Vision/Architecture vision - canvas.canvas",
     "Architecture Vision/Business Capability Program Maturity.md",
     "Architecture Vision/Business transformation readiness assessment.md",
-    "Architecture Vision/IT Capability Assessment.md",
-    "Architecture Vision/Stakeholder communication plan.md",
     "Business Context",
     "Preliminary Phase/Preliminary phase - canvas.canvas",
     "Business Architecture/Business Architecture - canvas.canvas",

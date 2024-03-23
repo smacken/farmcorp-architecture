@@ -99,43 +99,43 @@ By recognizing these constraints, Farm Corporation can develop strategies to mit
 
 ## Assumptions
 
-1. **Title**: Sufficient Budget Allocation
+1. Sufficient Budget Allocation
     
     - **Description**: There is an assumption that the budget will be available and allocated appropriately to cover the costs associated with the implementation of the new supply chain management system and other digital transformation initiatives.
     - **Business Owner**: Chief Financial Officer (CFO)
-2. **Title**: High-Quality Data Availability
+2. High-Quality Data Availability
     
     - **Description**: It is assumed that the existing data across the supply chain is of high quality and can be integrated into the new systems without significant cleansing or validation efforts.
     - **Business Owner**: Chief Information Officer (CIO)
-3. **Title**: Supplier Technological Capability
+3. Supplier Technological Capability
     
     - **Description**: There is an assumption that suppliers possess the necessary technological capabilities and willingness to integrate with Farm Corporation's digital collaboration platforms.
     - **Business Owner**: Chief Supply Chain Officer (CSCO)
-4. **Title**: Compatibility of New and Existing Systems
+4. Compatibility of New and Existing Systems
     
     - **Description**: It is assumed that new technologies will be compatible with existing systems, allowing for seamless integration without extensive customization.
     - **Business Owner**: Chief Technology Officer (CTO)
-5. **Title**: Comprehensive Cybersecurity Coverage
+5. Comprehensive Cybersecurity Coverage
     
     - **Description**: There is an assumption that the new cybersecurity measures will provide comprehensive protection against all potential threats without significant additional investments.
     - **Business Owner**: Chief Security Officer (CSO)
-6. **Title**: Effective Change Management
+6. Effective Change Management
     
     - **Description**: It is assumed that employees and management will be receptive to the new systems, and that the change management process will effectively facilitate the transition.
     - **Business Owner**: Head of Human Resources (HR)
-7. **Title**: Regulatory Compliance Knowledge
+7. Regulatory Compliance Knowledge
     
     - **Description**: There is an assumption that the organization is fully aware of all relevant regulations and compliance requirements, and that the new systems will be designed to meet these standards from the outset.
     - **Business Owner**: Chief Compliance Officer (CCO)
-8. **Title**: Smooth Decommissioning of Legacy Systems
+8. Smooth Decommissioning of Legacy Systems
     
     - **Description**: It is assumed that legacy systems can be decommissioned in a controlled manner without causing disruptions to business operations or data loss.
     - **Business Owner**: Chief Operations Officer (COO)
-9. **Title**: Future-Proof Technology Selection
+9. Future-Proof Technology Selection
     
     - **Description**: There is an assumption that the selected technology stack will be future-proof and will not require significant upgrades or replacements in the near to mid-term future.
     - **Business Owner**: Chief Technology Officer (CTO)
-10. **Title**: Vendor Flexibility and Negotiation Power
+10. Vendor Flexibility and Negotiation Power
     
     - **Description**: It is assumed that Farm Corporation will maintain flexibility in vendor selection and have the negotiation power to ensure favorable terms and conditions.
     - **Business Owner**: Chief Procurement Officer (CPO)

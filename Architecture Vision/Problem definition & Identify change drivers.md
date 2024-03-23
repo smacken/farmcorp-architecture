@@ -31,7 +31,7 @@ The enterprise architecture program must consider the following aspects based on
 
 By acknowledging these factors, I affirm that our enterprise architecture program will incorporate the necessary frameworks and strategies to navigate these risks, align with our strategic goals, and support the long-term success and sustainability of Farm Corporation.
 
-As required by law, we will continue to monitor these forward-looking statements and update them to reflect any significant changes that could affect our strategic planning and enterprise architecture. Our commitment is to ensure that Farm Corporation remains resilient and well-positioned to meet the future demands of the agricultural sector.
+We will continue to monitor these forward-looking statements and update them to reflect any significant changes that could affect our strategic planning and enterprise architecture. Our commitment is to ensure that Farm Corporation remains resilient and well-positioned to meet the future demands of the agricultural sector.
 
 ## Business problem
 
