@@ -3,9 +3,11 @@
 3. [[Business Model]]
 4. [[Value Stream]] | [[Business Capability Map]]
 5. [[Business applications]]
-6. [[Business Scenarios]] | [[Causal loops - Supply chain]]
+6. [[Business Scenarios]] | [[Causal loops - Supply chain]] | [[Stock and flow Supply chain]]
 7. [[Target Architecture]]
 8. [[Business requirements]] | [[Business requirements#Implementation Guidelines]]
+9. [[Gap analysis]]
+10. [[Impact analysis]]
 
 ### Business baseline architecture
 

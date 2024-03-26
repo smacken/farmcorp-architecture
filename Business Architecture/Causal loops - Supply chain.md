@@ -1,4 +1,4 @@
-[[Business Architecture]]
+[[Business Architecture]] | [[Stock and flow Supply chain]]
 #### System Boundary:
 The system boundary will encompass the end-to-end supply chain processes of Farm Corp, from supplier engagement to product delivery to the end customer. This includes supplier selection and management, production processes, inventory management, order fulfillment, distribution logistics, and customer service. External factors such as market demand, competition, and economic conditions will also be considered as they influence the supply chain dynamics.
 
@@ -11,6 +11,8 @@ The time horizon for the model will be set to a medium-term range, typically one
 > **Inventory tracking -> Warehouse Management (WM):** Positive Effect: Real-time inventory tracking provides accurate data for warehouse management, improving stock placement, retrieval efficiency, and overall warehouse operations.
 > ![[Pasted image 20240322105702.png]]
 ### Balancing feedback loops
+
+![[Pasted image 20240325102142.png]]
 
 Balancing feedback loops in a causal loop diagram help to stabilize the system by counteracting changes and bringing the system back to equilibrium. In the context of Farm Corp's supply chain,  balancing feedback loops between groups of causal loop variables include:
 
