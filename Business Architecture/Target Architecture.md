@@ -73,3 +73,92 @@ The business function of "Demand Forecasting and Replenishment" at Farm Corporat
 
 Each of these business processes contributes to the effective execution of demand forecasting and replenishment, helping Farm Corporation maintain optimal inventory levels, minimize costs, and ensure product availability to meet customer needs.
 ## 3. Supplier Collaboration and Integration
+
+![[Supplier collaboration.jpg]]
+
+```pllantuml
+@startuml
+!include <archimate/archimate.puml>
+
+' Define Application Components
+application_component ERPSystem "ERP System"
+application_component CRMSystem "CRM System"
+application_component WMSystem "WMS"
+application_component TMSystem "TMS"
+application_component SCMSoftware "SCM Software"
+application_component PredictiveAnalytics "Predictive Analytics Platform"
+application_component OrderManagementSystem "Customer Order Management System"
+application_component ComplianceSoftware "Customs and Compliance Software"
+application_component RiskManagementApp "Risk Management Application"
+application_component ShippingApp "Shipping Application"
+application_component InvoiceApp "Invoice Application"
+application_component FinancialApp "Financial Application"
+application_component ECommerce "ECommerce platform"
+application_component SRMSystem "SRM System"
+application_component PLMSoftware "PLM Software"
+
+' Define Application Services
+application_service SupplierManagementService "Supplier Management Service"
+application_service SupplierIntegrationService "Supplier Integration Service"
+application_service DemandPlanningService "Demand Planning Service"
+application_service CollaborativePlanningService "Collaborative Planning Service"
+application_service SupplierCommunicationService "Supplier Communication Service"
+application_service SupplierPortalService "Supplier Portal Service"
+application_service PerformanceMonitoringService "Performance Monitoring Service"
+application_service FeedbackManagementService "Feedback Management Service"
+application_service ContractComplianceService "Contract Compliance Service"
+application_service ContractManagementService "Contract Management Service"
+application_service RiskAnalysisService "Risk Analysis Service"
+application_service ContingencyPlanningService "Contingency Planning Service"
+application_service SupplierCollaborationService "Supplier Collaboration Service"
+application_service AnalyticsService "Analytics Service"
+
+' Define Relationships
+SupplierManagementService .right.> ERPSystem : provided by
+SupplierIntegrationService .down.> SCMSoftware : provided by
+DemandPlanningService .down.> PredictiveAnalytics : provided by
+CollaborativePlanningService .down.> SCMSoftware : provided by
+SupplierCommunicationService .down.> ERPSystem : provided by
+SupplierPortalService .down.> ECommerce : provided by
+PerformanceMonitoringService .down.> SCMSoftware : provided by
+FeedbackManagementService .down.> CRMSystem : provided by
+ContractComplianceService .down.> ComplianceSoftware : provided by
+ContractManagementService .down.> ERPSystem : provided by
+RiskAnalysisService .down.> RiskManagementApp : provided by
+ContingencyPlanningService .down.> SCMSoftware : provided by
+SupplierCollaborationService .down.> ERPSystem : provided by
+AnalyticsService .down.> PredictiveAnalytics : provided by
+
+' Define Additional Relationships
+SRMSystem .right.> SupplierManagementService : supports
+PLMSoftware .right.> CollaborativePlanningService : supports
+
+@enduml
+```
+
+Procurement
+
+```plantuml
+@startuml
+!include <archimate/archimate.puml>
+
+' Define Procurement Business Processes
+business_process SupplierSelectionOnboarding "Supplier Selection and Onboarding"
+business_process ContractManagementCompliance "Contract Management and Compliance"
+business_process StrategicSourcing "Strategic Sourcing"
+business_process PerformanceMonitoringFeedback "Performance Monitoring and Feedback"
+business_process JointPlanningForecasting "Joint Planning and Forecasting"
+business_process RiskManagementContingencyPlanning "Risk Management and Contingency Planning"
+
+' Map to Supplier Collaboration
+SupplierSelectionOnboarding -[hidden]> SupplierCollaboration : involved with
+ContractManagementCompliance -[hidden]> SupplierCollaboration : involved with
+StrategicSourcing -[hidden]> SupplierCollaboration : involved with
+PerformanceMonitoringFeedback -[hidden]> SupplierCollaboration : involved with
+JointPlanningForecasting -[hidden]> SupplierCollaboration : involved with
+RiskManagementContingencyPlanning -[hidden]> SupplierCollaboration : involved with
+
+@enduml
+```
+
+[[Data model]]

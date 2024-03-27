@@ -8,6 +8,7 @@
 8. [[Business requirements]] | [[Business requirements#Implementation Guidelines]]
 9. [[Gap analysis]]
 10. [[Impact analysis]]
+11. [[OKR]]
 
 ### Business baseline architecture
 

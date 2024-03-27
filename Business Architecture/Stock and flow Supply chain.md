@@ -1,3 +1,5 @@
+[[Business Architecture]]
+
 ![[Pasted image 20240326114033.png]]
 
 In the stock and flow diagram for Farm Corp's supply chain, there are several feedback loops that can be identified. These loops help maintain balance within the system or amplify certain effects, depending on their nature.

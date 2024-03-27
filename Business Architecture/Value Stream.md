@@ -23,10 +23,10 @@
 
 ![[Pasted image 20240319180220.png]]
 
-1. **Demand Forecasting and Replenishment**:
+1. **Demand Forecasting and Replenishment**: [[Target Architecture#2. Demand Forecasting and Replenishment]]
     
     - Implementing advanced demand forecasting algorithms to predict future inventory needs and automatically trigger replenishment orders.
-2. **Supplier Performance Management**:
+2. **Supplier Performance Management**: [[Target Architecture#3. Supplier Collaboration and Integration]]
     
     - Tracking and evaluating supplier performance against key metrics to ensure reliability and quality, and to foster continuous improvement.
 3. **Warehouse Management**:
