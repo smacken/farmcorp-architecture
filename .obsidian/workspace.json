@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application architecture.md",
+                "file": "Information systems Archtecture/Data architecture model.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Application architecture.md",
+                "file": "Information systems Archtecture/Data architecture model.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Application architecture.md",
+                "file": "Information systems Archtecture/Data architecture model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Application architecture.md"
+                "file": "Information systems Archtecture/Data architecture model.md"
               }
             }
           }
@@ -176,8 +176,8 @@
   },
   "active": "9ca48ebc87154cd6",
   "lastOpenFiles": [
+    "Information systems Archtecture/Application architecture.md",
     "Information systems Archtecture/Information systems architecture.md",
-    "Application architecture.md",
     "Business Architecture/Business Scenarios.md",
     "catalog/Business function data entity matrix.md",
     "catalog/Data component catalog.md",
@@ -200,7 +200,7 @@
     "Business Architecture/Business Model.md",
     "Architecture Vision/Business Capability Map.md",
     "README.md",
-    "Data architecture model.md",
+    "Information systems Archtecture/Data architecture model.md",
     "diagrams/Pasted image 20240326141623.png",
     "Business Architecture/Causal loops - Supply chain.md",
     "diagrams/Pasted image 20240326114033.png",
