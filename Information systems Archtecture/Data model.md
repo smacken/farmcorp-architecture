@@ -132,7 +132,112 @@ Rel_Assignment(analytics, inventoryAnalysis)
 @enduml 
 
 ```
+In this conceptual data model:
 
+```plantuml
+@startuml
+!define RECTANGLE class
+
+class InventoryItem {
+    +ItemID
+    +Name
+    +Category
+    +UnitOfMeasure
+}
+
+class StockLevel {
+    +ItemID
+    +WarehouseID
+    +Quantity
+    +ThresholdLevel
+}
+
+class InventoryTransaction {
+    +TransactionID
+    +ItemID
+    +Quantity
+    +TransactionType
+    +Timestamp
+}
+
+class WarehouseLocation {
+    +LocationID
+    +WarehouseID
+    +Aisle
+    +Shelf
+    +Bin
+}
+
+class Supplier {
+    +SupplierID
+    +Name
+    +ContactDetails
+}
+
+class ReplenishmentOrder {
+    +OrderID
+    +ItemID
+    +Quantity
+    +OrderDate
+    +ExpectedDeliveryDate
+}
+
+class Asset {
+    +AssetID
+    +Description
+    +LocationID
+    +Status
+}
+
+class DemandForecast {
+    +ItemID
+    +ForecastedQuantity
+    +ForecastDateRange
+}
+
+class AuditRecord {
+    +AuditID
+    +ItemID
+    +QuantityAudited
+    +AuditDate
+}
+
+' Define relationships
+InventoryItem "1" -- "0..*" StockLevel
+InventoryItem "1" -- "0..*" InventoryTransaction
+InventoryItem "1" -- "0..*" ReplenishmentOrder
+InventoryItem "1" -- "0..*" DemandForecast
+
+WarehouseLocation "1" -- "0..*" StockLevel
+WarehouseLocation "1" -- "0..*" Asset
+
+Supplier "1" -- "0..*" ReplenishmentOrder
+
+' Display the conceptual data model
+InventoryItem : -description()
+StockLevel : -monitor()
+InventoryTransaction : -recordTransaction()
+WarehouseLocation : -locate()
+Supplier : -evaluate()
+ReplenishmentOrder : -placeOrder()
+Asset : -trackAsset()
+DemandForecast : -forecastDemand()
+AuditRecord : -recordAudit()
+
+@enduml
+```
+
+- **InventoryItem**: Represents each unique item that can be held in inventory.
+- **StockLevel**: Tracks the quantity of each InventoryItem at a specific WarehouseLocation.
+- **InventoryTransaction**: Records movements and changes in inventory, such as sales, returns, or transfers.
+- **WarehouseLocation**: Identifies specific locations within a warehouse where inventory is stored.
+- **Supplier**: Contains information about the companies that supply InventoryItems.
+- **ReplenishmentOrder**: Represents orders placed with suppliers to replenish inventory.
+- **Asset**: Tracks assets used in the inventory and supply chain process.
+- **DemandForecast**: Predictions about future demand for InventoryItems.
+- **AuditRecord**: Documentation of inventory audits for compliance and verification purposes.
+
+The relationships between these entities are essential to understanding how data flows within the Real-time Inventory Tracking system.
 
 
 ## Demand forecast
