@@ -13,7 +13,7 @@
 ### Business baseline architecture
 
 ![[Pasted image 20240321102052.png]]
-![[Pasted image 20240321102112.png]]
+![[businessfunctions.png]]
 
 ### Target model
 

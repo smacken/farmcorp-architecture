@@ -33,7 +33,7 @@ Each of these processes contributes to the effectiveness of Real-time Inventory 
 ## 2. Demand Forecasting and Replenishment
 [[Demand forecasting and replenishment]]
 
-![[Demand forecasting.jpg]]
+![[Demandforecasting.jpg]]
 
 The business function of "Demand Forecasting and Replenishment" at Farm Corporation is a crucial aspect of the supply chain that ensures products are available to meet customer demand without overstocking, thereby optimizing inventory levels. This function is supported by several interrelated business processes:
 

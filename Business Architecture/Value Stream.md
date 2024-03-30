@@ -1,4 +1,4 @@
-![[Pasted image 20240319163424.png]]
+![[valuechain.png]]
 1. **Market Intelligence and Demand Forecasting**
     - Gathering market data and customer insights to predict demand and inform product development.
 2. **Product Development and Engineering**

@@ -12,7 +12,7 @@ The time horizon for the model will be set to a medium-term range, typically one
 > ![[Pasted image 20240322105702.png]]
 ### Balancing feedback loops
 
-![[Pasted image 20240325102142.png]]
+![[causalloop.png]]
 
 Balancing feedback loops in a causal loop diagram help to stabilize the system by counteracting changes and bringing the system back to equilibrium. In the context of Farm Corp's supply chain,  balancing feedback loops between groups of causal loop variables include:
 

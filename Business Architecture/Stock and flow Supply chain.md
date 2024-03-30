@@ -1,6 +1,6 @@
 [[Business Architecture]]
 
-![[Pasted image 20240326114033.png]]
+![[stockandflow.png]]
 
 > How to read?
 > ![[Pasted image 20240330164359.png]]

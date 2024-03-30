@@ -1,5 +1,5 @@
 [[Architecture Vision]] | [[Business Architecture]]
-![[Pasted image 20240324105637.png]]
+![[businessmodel.png]]
 ### Value proposition
 
 ![[Pasted image 20240323135404.png]]

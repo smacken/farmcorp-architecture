@@ -77,6 +77,17 @@ The TOGAF Architecture Development Method (ADM) offers a structured approach for
     
 10. **Requirements Management**: A central process that ensures that the Architecture Development Method responds to the dynamic nature of business drivers and changes in requirements.
 
+## Highlights
 
+**Business model**
+![businessmodel](diagrams/businessmodel.png)
+**Value stream**
+![valuestream](diagrams/valuechain.png)
+**Capability mapping**
+![capabilitymap](diagrams/capabilitymapping.png)
 
+**Stock and Flow**
+![stockflow](diagrams/stockandflow.png)
+**Target architecture**
+![demandforecast](diagrams/Demandforecasting.jpg)
 
