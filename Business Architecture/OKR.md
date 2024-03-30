@@ -54,23 +54,23 @@ Below are up to three Objectives and Key Results (OKRs) for each main business u
         - KR2: Automate 30% of common customer inquiries with AI chatbots by Q3.
         - KR3: Increase self-service options resulting in a 20% reduction in direct service requests by Q4.
     
-    **Supply Chain & Operations**
+    ***Supply Chain & Operations**
+
+1. Objective: Achieve a 99% on-time delivery rate for all products.
     
-    1. Objective: Achieve a 99% on-time delivery rate for all products.
-        
-        - KR1: Reduce average delivery delays by 25% by optimizing routing by Q2.
-        - KR2: Implement predictive analytics for inventory management and achieve a 5% increase in accuracy by Q3.
-        - KR3: Enhance supplier performance management leading to a 10% improvement in lead times by Q4.
-    2. Objective: Reduce supply chain costs by 10% without compromising quality.
-        
-        - KR1: Negotiate and consolidate purchases to achieve a 5% cost saving on bulk materials by Q1.
-        - KR2: Implement lean inventory techniques to reduce holding costs by 15% by Q3.
-        - KR3: Optimize logistics network to reduce transportation costs by 8% by Q4.
-    3. Objective: Increase supply chain sustainability measures.
-        
-        - KR1: Source 20% of raw materials from certified sustainable suppliers by Q2.
-        - KR2: Reduce packaging waste by 30% through redesign and material substitution by Q3.
-        - KR3: Lower carbon emissions from logistics operations by 15% by utilizing alternative fuel vehicles and optimizing routes by Q4.
+    - KR1: Reduce average delivery delays by 25% by optimizing routing by Q2.
+    - KR2: Implement predictive analytics for inventory management and achieve a 5% increase in accuracy by Q3.
+    - KR3: Enhance supplier performance management leading to a 10% improvement in lead times by Q4.
+2. Objective: Reduce supply chain costs by 10% without compromising quality.
+    
+    - KR1: Negotiate and consolidate purchases to achieve a 5% cost saving on bulk materials by Q1.
+    - KR2: Implement lean inventory techniques to reduce holding costs by 15% by Q3.
+    - KR3: Optimize logistics network to reduce transportation costs by 8% by Q4.
+3. Objective: Increase supply chain sustainability measures.
+    
+    - KR1: Source 20% of raw materials from certified sustainable suppliers by Q2.
+    - KR2: Reduce packaging waste by 30% through redesign and material substitution by Q3.
+    - KR3: Lower carbon emissions from logistics operations by 15% by utilizing alternative fuel vehicles and optimizing routes by Q4.
     
     **Precision Agriculture & Smart Solutions**
     

@@ -1,3 +1,4 @@
+[[Information systems architecture]]
 ## Baseline architecture
 
 ```plantuml

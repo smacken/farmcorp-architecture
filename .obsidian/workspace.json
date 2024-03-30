@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information systems Archtecture/Data architecture model.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information systems Archtecture/Data architecture model.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information systems Archtecture/Data architecture model.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information systems Archtecture/Data architecture model.md"
+                "file": "README.md"
               }
             }
           }
@@ -176,45 +176,45 @@
   },
   "active": "9ca48ebc87154cd6",
   "lastOpenFiles": [
-    "Information systems Archtecture/Application architecture.md",
-    "Information systems Archtecture/Information systems architecture.md",
+    "Business Architecture/Target Architecture.md",
+    "Business Architecture/Stakeholders and responsibilities.md",
+    "Business Architecture/Business architecture model.md",
+    "Business Architecture/Business Architecture.md",
+    "Business Architecture/Business requirements.md",
+    "Business Architecture/Business Model.md",
+    "README.md",
+    "utils/TOGAF.md",
     "Business Architecture/Business Scenarios.md",
+    "Business Architecture/Stock and flow Supply chain.md",
+    "diagrams/Pasted image 20240330164359.png",
+    "utils/KPIs and Metrics.md",
+    "Business Architecture/OKR.md",
     "catalog/Business function data entity matrix.md",
     "catalog/Data component catalog.md",
-    "Architecture Vision/Identify High level Architecture Objectives.md",
-    "Business Architecture/Stakeholders and responsibilities.md",
-    "Business Architecture/Target Architecture.md",
-    "Architecture Vision/Problem definition & Identify change drivers.md",
     "Information systems Archtecture/Data model.md",
-    "Business Architecture/Business Architecture.md",
-    "Business Architecture/OKR.md",
+    "Information systems Archtecture/Information systems stakeholders.md",
+    "Information systems Archtecture/Information systems archtecture.canvas",
+    "Information systems Archtecture/Information systems architecture.md",
+    "Information systems Archtecture/Data architecture model.md",
+    "Information systems Archtecture/Application architecture.md",
+    "Architecture Vision/Identify High level Architecture Objectives.md",
+    "Architecture Vision/Problem definition & Identify change drivers.md",
     "diagrams/Pasted image 20240328112004.png",
     "diagrams/Pasted image 20240328111810.png",
     "Architecture Vision/Architecture Vision.md",
-    "Business Architecture/Stock and flow Supply chain.md",
     "Business Architecture/Value Stream.md",
     "diagrams/Supplier collaboration.jpg",
-    "Business Architecture/Business requirements.md",
     "Business Architecture/Demand forecasting and replenishment.md",
     "Business Architecture/Business applications.md",
-    "Business Architecture/Business Model.md",
     "Architecture Vision/Business Capability Map.md",
-    "README.md",
-    "Information systems Archtecture/Data architecture model.md",
     "diagrams/Pasted image 20240326141623.png",
-    "Business Architecture/Causal loops - Supply chain.md",
     "diagrams/Pasted image 20240326114033.png",
-    "utils/TOGAF.md",
     "catalog",
-    "Information systems Archtecture/Information systems stakeholders.md",
-    "Information systems Archtecture/Information systems archtecture.canvas",
     "Information systems Archtecture",
-    "Business Architecture/Impact analysis.md",
     "diagrams/Pasted image 20240325102142.png",
     "diagrams/Pasted image 20240324135945.png",
     "diagrams/Pasted image 20240324105637.png",
     "diagrams/Pasted image 20240323174917.png",
-    "diagrams/Pasted image 20240323174704.png",
     "utils",
     "Architecture Vision/Architecture vision - canvas.canvas",
     "Business Context",
